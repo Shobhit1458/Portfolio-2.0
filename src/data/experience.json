@@ -1,0 +1,51 @@
+{
+  "experience": [
+    {
+      "id": 0,
+      "link": "https://github.com/Shobhit1458/Quiz",
+      "company": "Quiz-App",
+      "title": "Fullstack Project",
+      "info": [
+        "It is a react app in which the user can give a quiz and gets the percentage of the questions that are correct",
+        "It has functionalities like we can select number of questions, we can skip the question",
+        "Also we can select the category of questions and its difficulty etc."
+      ],
+      "stack": ["React.js", "Tailwind CSS", "Firebase"],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(to bottom, #f4592b, #f28d25)",
+      "colourSecondary": "linear-gradient(to bottom, #f4592b, #f28d25)"
+    },
+    {
+      "id": 1,
+      "link": "https://github.com/Shobhit1458/Blood-Mobile",
+      "company": "Blood-Mobile",
+      "title": "MERN Stack Project",
+      "info": [
+        "It includes features such as donor registration, blood requests, inventory management",
+        "The project aims to provide a seamless user experience and efficient blood inventory management for blood banks and donors.",
+        "It has functionalities like user authentication, and searching for donors"
+      ],
+      "stack": ["React", "Express", "Node", "MongoDB"],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #465a90, #1e3470)",
+      "colourSecondary": "linear-gradient(to bottom, #465a90, #1e3470)"
+    },
+    {
+      "id": 2,
+      "link": "https://github.com/Shobhit1458/Visualisation-Dashboard",
+      "company": "Visualisation-Dashboard",
+      "title": "MERN Stack Project",
+      "info": [
+        "Project uses given JSON data to create a MongoDB database and create an API in node.js to retrieve the data.",
+        "The visualizations are created using chart.js library.",
+        "Project aims to generate insights from creative visualizations.",
+        "The dashboard has various filters."
+      ],
+      "stack": ["React", "Express", "Node", "MongoDB"],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #39b175, #0be779)",
+      "colourSecondary": "linear-gradient(to bottom, #39b175, #0be779)"
+    }
+  ]
+}
+

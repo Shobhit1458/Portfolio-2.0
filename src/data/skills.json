@@ -1,0 +1,37 @@
+{
+  "skills": [
+    {
+      "id": 0,
+      "skillName": "React.js",
+      "amount": "95"
+    },
+    {
+      "id": 1,
+      "skillName": "Tailwind CSS",
+      "amount": "90"
+    },
+    {
+      "id": 2,
+      "skillName": "Firebase",
+      "amount": "90"
+    },
+    { "id": 3, "skillName": "MySQL", "amount": "85" },
+    {
+      "id": 4,
+      "skillName": "DSA (C/C++)",
+      "amount": "80"
+    },
+    {
+      "id": 5,
+      "skillName": "Javascript",
+      "amount": "75"
+    },
+    { "id": 6, "skillName": "Git", "amount": "70" },
+    { "id": 7, "skillName": "MongoDB", "amount": "70" },
+    {
+      "id": 8,
+      "skillName": "Express.js",
+      "amount": "60"
+    }
+  ]
+}
