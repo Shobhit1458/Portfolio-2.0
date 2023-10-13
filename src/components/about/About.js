@@ -23,7 +23,7 @@ const About = () => {
               <span role="img" aria-label="lightning">
                 ⚡
               </span>{' '}
-              I'm a software engineer focusing on Full-Stack web technologies
+              I'm a Full Stack Web developer focusing on technologies
               such as Express.js , Node.js , MongoDB , AWS
             </p>
             <p>
